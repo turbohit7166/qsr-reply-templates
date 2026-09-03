@@ -1,0 +1,30 @@
+{
+  "scenarios": [
+    {
+      "id": "late_order",
+      "name": {
+        "zh": "订单延迟",
+        "en": "Late order",
+        "fr": "Commande en retard"
+      },
+      "templates": {
+        "zh": "您好，非常抱歉您的订单出现了延迟。我们已经在优先处理您的订单，并会尽快完成。如果您愿意，我们可以为您提供 [补偿方案，如：小份免费甜品/下次优惠券] 以表达我们的歉意。感谢您的理解与耐心。",
+        "en": "Hello, we're very sorry for the delay with your order. We're prioritizing it and will complete it as soon as possible. If you'd like, we can offer [a small compensation, e.g., a free side item or a discount on your next visit] to make up for the inconvenience. Thank you for your understanding and patience.",
+        "fr": "Bonjour, nous sommes vraiment désolés pour le retard de votre commande. Nous la traitons en priorité et la terminerons dès que possible. Si vous le souhaitez, nous pouvons vous offrir [une petite compensation, par exemple un accompagnement gratuit ou un rabais sur votre prochaine visite] pour nous excuser du désagrément. Merci de votre compréhension et de votre patience."
+      }
+    },
+    {
+      "id": "wrong_item",
+      "name": {
+        "zh": "餐品做错",
+        "en": "Wrong item",
+        "fr": "Mauvais article"
+      },
+      "templates": {
+        "zh": "您好，非常抱歉给您做错了餐品。我们愿意立即为您重新制作正确的餐品，并根据情况提供 [退款/补偿]。麻烦您提供订单号和具体情况，我们会尽快处理。",
+        "en": "Hello, we're very sorry that your order was prepared incorrectly. We'd like to remake the correct items for you right away and, depending on the situation, offer [a refund or compensation]. Could you please share your order number and details so we can resolve this quickly?",
+        "fr": "Bonjour, nous sommes vraiment désolés que votre commande ait été préparée incorrectement. Nous souhaitons refaire immédiatement les bons articles pour vous et, selon la situation, offrir [un remboursement ou une compensation]. Pourriez-vous s'il vous plaît partager votre numéro de commande et les détails afin que nous puissions régler cela rapidement ?"
+      }
+    }
+  ]
+}
